@@ -1,0 +1,53 @@
+date,incident_type,severity,status,description,reported_by
+2025-12-01,Phishing,High,Open,Phishing email detected,Alice
+2025-12-01,Malware,Critical,Open,Ransomware detected,Bob
+2025-12-02,Data Breach,High,Resolved,Unauthorized access detected,Charlie
+2025-12-03,DDoS,Medium,Open,Website under attack,Alice
+2025-12-04,Phishing,High,Open,New phishing campaign,Bob
+2025-12-05,Malware,Critical,Resolved,Detected malware,Charlie
+2025-12-06,Insider Threat,Medium,Open,Suspicious activity,Alice
+2025-12-07,Data Breach,High,Resolved,Confidential data leak,Bob
+2025-12-08,DDoS,Critical,Open,Service outage,Charlie
+2025-12-09,Phishing,Medium,Open,Fake login page detected,Alice
+2025-12-10,Malware,High,Resolved,Malware on server,Bob
+2025-12-11,Insider Threat,Medium,Open,Internal data access,Alice
+2025-12-12,Data Breach,Critical,Open,Unauthorized database access,Charlie
+2025-12-13,DDoS,High,Resolved,Network attack mitigated,Bob
+2025-12-14,Phishing,Medium,Open,New phishing email,Alice
+2025-12-15,Malware,Critical,Open,Ransomware alert,Charlie
+2025-12-16,Phishing,High,Open,Spear phishing attempt,Bob
+2025-12-17,Data Breach,Critical,Resolved,Employee credentials leaked,Charlie
+2025-12-18,DDoS,High,Open,Cloud service disruption,Alice
+2025-12-19,Malware,Medium,Open,Adware detected,Bob
+2025-12-20,Insider Threat,Critical,Resolved,Unauthorized access to files,Charlie
+2025-12-21,Phishing,High,Open,Email phishing link detected,Alice
+2025-12-22,DDoS,Medium,Open,Website latency issues,Bob
+2025-12-23,Malware,Critical,Open,Ransomware attack detected,Charlie
+2025-12-24,Data Breach,High,Resolved,Sensitive data leaked,Alice
+2025-12-25,Insider Threat,Medium,Open,Suspicious login activity,Bob
+2025-12-26,Phishing,Medium,Open,Fake login page reported,Charlie
+2025-12-27,DDoS,Critical,Open,Server downtime observed,Alice
+2025-12-28,Malware,High,Resolved,Trojan virus detected,Bob
+2025-12-29,Data Breach,Critical,Open,Database unauthorized access,Charlie
+2025-12-30,Phishing,High,Open,New phishing email campaign,Alice
+2025-12-31,Insider Threat,Medium,Open,Confidential data access,Bob
+2026-01-01,DDoS,High,Resolved,Network attack mitigated,Charlie
+2026-01-02,Malware,Critical,Open,Malware alert on server,Alice
+2026-01-03,Phishing,Medium,Open,Phishing email blocked,Bob
+2026-01-04,Data Breach,High,Resolved,Customer data leaked,Charlie
+2026-01-05,DDoS,Medium,Open,Website intermittent outage,Alice
+2026-01-06,Malware,Critical,Open,Ransomware detected,Bob
+2026-01-07,Insider Threat,High,Resolved,Unauthorized file access,Charlie
+2026-01-08,Phishing,Medium,Open,Fake login page,Alice
+2026-01-09,DDoS,Critical,Open,Server overload,Bob
+2026-01-10,Malware,High,Resolved,Detected malware on endpoint,Charlie
+2026-01-11,Data Breach,Critical,Open,Data exfiltration attempt,Alice
+2026-01-12,Insider Threat,Medium,Open,Suspicious file activity,Bob
+2026-01-13,Phishing,High,Open,Email phishing campaign,Charlie
+2026-01-14,DDoS,Medium,Resolved,Temporary network outage,Alice
+2026-01-15,Malware,Critical,Open,Ransomware infection detected,Bob
+2026-01-16,Data Breach,High,Open,Unauthorized database query,Charlie
+2026-01-17,Insider Threat,Medium,Open,Internal credentials misuse,Alice
+2026-01-18,Phishing,Medium,Open,New phishing link detected,Bob
+2026-01-19,DDoS,High,Open,Cloud service disruption,Charlie
+2026-01-20,Malware,Critical,Resolved,Malware quarantine successful,Alice

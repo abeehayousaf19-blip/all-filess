@@ -1,0 +1,4 @@
+username,password,role
+alice,SecurePass123!,analyst
+bob,Password456,user
+charlie,MyPass789,admin

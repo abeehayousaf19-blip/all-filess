@@ -1,0 +1,52 @@
+threat_name,severity,detected_on
+Phishing Email Campaign,High,2025-12-01
+Ransomware Attack,Critical,2025-12-02
+Zero-Day Exploit,Critical,2025-12-03
+Insider Data Leak,Medium,2025-12-04
+Data Breach Attempt,High,2025-12-05
+Malware Infection,Critical,2025-12-06
+DDoS Attack,High,2025-12-07
+Phishing Attempt,Medium,2025-12-08
+Ransomware Campaign,Critical,2025-12-09
+Software Vulnerability,High,2025-12-10
+Threat Intelligence Alert,Medium,2025-12-11
+Suspicious Login Activity,High,2025-12-12
+Network Intrusion,High,2025-12-13
+DDoS Risk,Critical,2025-12-14
+Malware Alert,High,2025-12-15
+Phishing Email Cluster,Medium,2025-12-16
+Ransomware Detected,Critical,2025-12-17
+Unauthorized Access Attempt,High,2025-12-18
+Insider Threat Alert,Medium,2025-12-19
+SQL Injection Attack,Critical,2025-12-20
+Cross-Site Scripting,High,2025-12-21
+Brute Force Login,Medium,2025-12-22
+Phishing Domain Registered,High,2025-12-23
+Malware Campaign,Critical,2025-12-24
+Data Exfiltration Attempt,High,2025-12-25
+DDoS Mitigation Required,Critical,2025-12-26
+Trojan Detected,High,2025-12-27
+Unauthorized File Access,Medium,2025-12-28
+Phishing Email Reported,High,2025-12-29
+Ransomware Executed,Critical,2025-12-30
+Vulnerability Patch Required,High,2025-12-31
+Suspicious VPN Login,Medium,2026-01-01
+Privilege Escalation Attempt,High,2026-01-02
+DDoS Traffic Spike,Critical,2026-01-03
+Malware on Workstation,High,2026-01-04
+Phishing Site Detected,Medium,2026-01-05
+Data Breach Confirmed,Critical,2026-01-06
+Zero-Day Exploit Found,High,2026-01-07
+Insider Data Theft,Medium,2026-01-08
+Malware Infection Contained,High,2026-01-09
+DDoS Attempt Blocked,Critical,2026-01-10
+Suspicious Email Activity,Medium,2026-01-11
+Unauthorized Login Alert,High,2026-01-12
+Phishing Email Quarantined,Medium,2026-01-13
+Ransomware Attempted,Critical,2026-01-14
+Software Vulnerability Found,High,2026-01-15
+Threat Intelligence Updated,Medium,2026-01-16
+Network Attack Detected,High,2026-01-17
+DDoS Risk Mitigated,Critical,2026-01-18
+Malware Alert Contained,High,2026-01-19
+Phishing Campaign Reported,Medium,2026-01-20

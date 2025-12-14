@@ -1,0 +1,51 @@
+ticket_id,title,status,priority,assigned_to,created_on
+1,Email server down,Open,High,Alice,2025-12-01
+2,Printer not working,Resolved,Medium,Bob,2025-12-02
+3,Network outage,Open,Critical,Charlie,2025-12-03
+4,VPN not connecting,Open,High,Alice,2025-12-04
+5,Software update failed,Resolved,Medium,Bob,2025-12-05
+6,Laptop slow,Open,Low,Charlie,2025-12-06
+7,Access denied to shared folder,Resolved,High,Alice,2025-12-07
+8,Server backup failed,Open,Critical,Bob,2025-12-08
+9,Email spam issues,Open,Medium,Charlie,2025-12-09
+10,Printer jammed,Resolved,Low,Alice,2025-12-10
+11,WiFi intermittent,Open,High,Bob,2025-12-11
+12,Database connection error,Open,Critical,Charlie,2025-12-12
+13,Email attachment blocked,Resolved,Medium,Alice,2025-12-13
+14,VPN timeout,Open,High,Bob,2025-12-14
+15,Software crash,Open,Medium,Charlie,2025-12-15
+16,Firewall misconfiguration,Open,Critical,Alice,2025-12-16
+17,User account locked,Resolved,Medium,Bob,2025-12-17
+18,Server disk full,Open,High,Charlie,2025-12-18
+19,Antivirus update failed,Open,Medium,Alice,2025-12-19
+20,Email delay issues,Resolved,Low,Bob,2025-12-20
+21,Network latency,Open,High,Charlie,2025-12-21
+22,VPN authentication failed,Open,Critical,Alice,2025-12-22
+23,Cloud service unavailable,Resolved,Medium,Bob,2025-12-23
+24,Shared drive missing,Open,High,Charlie,2025-12-24
+25,Laptop battery issue,Open,Low,Alice,2025-12-25
+26,Server restart required,Resolved,Medium,Bob,2025-12-26
+27,Email signature missing,Open,Low,Charlie,2025-12-27
+28,Software license expired,Open,High,Alice,2025-12-28
+29,Printer network error,Resolved,Medium,Bob,2025-12-29
+30,WiFi authentication failed,Open,High,Charlie,2025-12-30
+31,VPN profile corrupted,Open,Critical,Alice,2025-12-31
+32,Database backup failed,Resolved,High,Bob,2026-01-01
+33,Email rules not working,Open,Medium,Charlie,2026-01-02
+34,Server CPU high usage,Open,Critical,Alice,2026-01-03
+35,Access rights issue,Resolved,Medium,Bob,2026-01-04
+36,Firewall logs missing,Open,High,Charlie,2026-01-05
+37,Antivirus license expired,Open,Medium,Alice,2026-01-06
+38,Laptop overheating,Resolved,High,Bob,2026-01-07
+39,Email attachments blocked,Open,Medium,Charlie,2026-01-08
+40,Cloud sync failure,Open,High,Alice,2026-01-09
+41,Network cable damaged,Resolved,Medium,Bob,2026-01-10
+42,Printer driver outdated,Open,Low,Charlie,2026-01-11
+43,VPN client crash,Open,Critical,Alice,2026-01-12
+44,Database query slow,Resolved,High,Bob,2026-01-13
+45,Shared folder access denied,Open,Medium,Charlie,2026-01-14
+46,Laptop screen flickering,Open,Low,Alice,2026-01-15
+47,Email delivery failed,Resolved,Medium,Bob,2026-01-16
+48,Server memory leak,Open,Critical,Charlie,2026-01-17
+49,WiFi coverage weak,Open,High,Alice,2026-01-18
+50,Cloud application crash,Resolved,High,Bob,2026-01-19
